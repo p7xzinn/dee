@@ -1,0 +1,12 @@
+ :root{
+    --cor-de-fundo: #EBECEE;
+ }
+
+ boby {
+     backgroud-color: var(--cor-de-fundo) 
+ }
+
+ h1 {
+    background-color: rgb(133, 35, 124);
+ }
+
